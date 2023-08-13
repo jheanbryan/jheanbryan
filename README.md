@@ -1,4 +1,4 @@
-### Olá, eu sou Jhean Bryan👋
+### Olá, eu sou o Jhean Bryan👋
 ![jheanbryan GitHub stats](https://github-readme-stats.vercel.app/api?username=jheanbryan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jheanbryan&hide_progress=false)
 
