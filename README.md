@@ -1,7 +1,8 @@
 ### Olá, eu sou o Jhean Bryan👋
-![jheanbryan GitHub stats](https://github-readme-stats.vercel.app/api?username=jheanbryan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jheanbryan&hide_progress=false)
+<hr>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jheanbryan&show_icons=true&theme=radica&hide_border=true&count_private=true&include_all_commits=true" alt="" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheanbryan&theme=buefy&hide_border=true&langs_count=10&layout=compact" /></a> |
+| ------------- | ------------- |
 
 ## Tecnologias
 <div stye="display: inline-block">
