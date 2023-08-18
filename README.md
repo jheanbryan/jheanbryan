@@ -1,4 +1,10 @@
 ### Olá, eu sou o Jhean Bryan👋
+Eu estou: <br>
+- 🔭 Crusando TSI e ADS
+- 🌱 Me aprofundando no Front-End
+<br>
+<a href="https://jhean.netlify.app" target="_blank">Click aqui para conhecer meu portfolio</a>
+<br>
 <hr>
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=jheanbryan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheanbryan&theme=radical&hide_border=true&langs_count=10&layout=compact" />|
@@ -30,7 +36,6 @@
 **jheanbryan/jheanbryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
