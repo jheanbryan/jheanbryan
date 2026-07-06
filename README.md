@@ -1,9 +1,19 @@
 ### Olá, eu sou o Jhean Bryan👋
-Eu estou: <br>
-- 🔭 Crusando TSI e ADS
-- 🌱 Me aprofundando no Front-End
-<br>
-<a href="https://jhean.netlify.app" target="_blank">Click aqui para conhecer meu portfolio</a>
+
+Desenvolvedor Full Stack e professor da área de Tecnologia.
+
+🎓 Formado em Tecnologia em Sistemas para Internet (TSI) e Análise e Desenvolvimento de Sistemas (ADS).
+
+Atualmente estou focado em:
+- 🚀 Desenvolvimento Web com React, e Node.js
+- 📚 Ensino de programação e desenvolvimento de software
+- 💡 Construção de projetos Full Stack
+- 🌱 Aprimorando conhecimentos em Desenvolvimento de software e boas práticas
+
+🌐 Portfolio:
+https://jhean.vercel.app
+
+---
 <br>
 <hr>
 
